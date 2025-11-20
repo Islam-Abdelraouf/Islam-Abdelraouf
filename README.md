@@ -1,10 +1,10 @@
 <!-- ====== HEADER ====== -->
 <h1 align="center">✨ Islam Abdelraouf ✨</h1>
-<h3 align="center">Backend Developer • Laravel Specialist • Desktop Applications Engineer</h3>
+<h3 align="center">Backend Developer • Laravel Specialist • Desktop App Engineer</h3>
 
 <p align="center">
-  <em>Marine Chief Engineer transitioning into software engineering</em><br>
-  <em>Building tools for financial markets & SaaS platforms</em>
+  <em>Marine Chief Engineer turned Software Developer</em><br>
+  <em>Crafting solutions for financial automation and SaaS platforms</em>
 </p>
 
 ---
@@ -15,7 +15,7 @@
   <a href="https://github.com/Islam-Abdelraouf?tab=followers">
     <img src="https://img.shields.io/github/followers/Islam-Abdelraouf?label=Followers&style=flat-square&color=blue" alt="Followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">
+  <a href="https://www.linkedin.com/in/eslam-raouf/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -23,90 +23,78 @@
 ---
 
 ## 🧠 About Me
-I am a Marine Chief Engineer with a strong engineering mindset, currently transitioning into backend & system development.  
-I focus on building **practical real-world tools**, especially in:
+
+I'm a former Marine Chief Engineer leveraging an engineering mindset and problem-solving drive into backend & system development.  
+I specialize in building **real-world, purpose-driven tools**, with special focus on:
 
 - Financial markets automation  
-- SaaS platforms  
-- Laravel backend dashboards  
-- Desktop applications integrated with online APIs  
+- SaaS platforms & backend dashboards  
+- Desktop applications with rich API integrations  
 
-I love solving complex problems and converting ideas into solid, working systems.
+I thrive on turning complex challenges into robust, working solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend & Web
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
-- PHP  
-- Laravel  
-- Filament  
-- Livewire  
-- REST APIs  
-- MySQL  
+- PHP, Laravel (Filament, Livewire)
+- REST APIs, MySQL
 
 ### 🔹 Desktop & Automation  
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-- C# (WinForms)  
-- Visual Basic 6  
-- Visual Basic .NET  
-- VBA Excel Automation  
-- Integrating desktop apps with online APIs  
-
-### 🔹 Local Dev Tools
-- XAMPP  
-- Laragon  
+- C# (WinForms), VB6, VB.NET, VBA (Excel)
+- Desktop API integrations
 
 ### 🔹 Web Fundamentals  
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-- HTML / CSS / JavaScript
+- HTML • CSS • JavaScript
 
 ### 🔹 DevOps & Scripting  
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=bash,git,github" />
 </p>
 
-- Bash  
-- Git & GitHub  
+- Bash • Git & GitHub
+
+### 🔹 Local Dev Tools
+- XAMPP, Laragon
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Islam-Abdelraouf&show_icons=true&theme=radical&hide_title=true" alt="Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-Abdelraouf&layout=compact&theme=radical" alt="Top Langs"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Islam-Abdelraouf&theme=radical" alt="Streak"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Islam-Abdelraouf&show_icons=true&theme=radical&hide_title=true" alt="Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-Abdelraouf&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Islam-Abdelraouf&theme=radical" alt="Streak"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects 
+## 🚀 Featured Projects
 
-- BizConsult CMS Laravel 10
-- Position Corrector (C# + APIs) **(Coming Soon...)**
-- Smart Home Controller (ESP32 + PHP Backend) **(Coming Soon...)**
+- ⚡ **BizConsult CMS (Laravel 10)**
+- 🟦 **Position Corrector (C# + APIs)** _(Coming Soon)_
+- 🏡 **Smart Home Controller (ESP32 + PHP Backend)** _(Coming Soon)_
 
 ---
 
 ## 📬 Contact
-- **<a href="m.engineer.islam@gmail.com">Email</a>**   
-- **<a href="https://www.linkedin.com/in/eslam-raouf">LinkedIn</a>** 
+
+- 📧 [m.engineer.islam@gmail.com](mailto:m.engineer.islam@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eslam-raouf)
 
 ---
 
-<p align="center">⚡ Driven by problem-solving • Learning every day • Building impact</p>
+<p align="center">⚡ Passionate problem solver | Always learning | Building for real impact</p>
